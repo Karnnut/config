@@ -1,0 +1,6 @@
+This is my neovim config.
+- access to .config
+- clone this repo and change name to nvim
+- go to plugins-setup.lua and save file
+- install lsp language server
+fix bug by yourself
